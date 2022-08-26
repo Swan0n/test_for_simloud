@@ -1,0 +1,3 @@
+./fotos/abc2.jpeg
+./fotos/abc1.jpg
+./fotos/filejpg.jpg
